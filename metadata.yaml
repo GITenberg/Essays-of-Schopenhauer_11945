@@ -1,0 +1,31 @@
+_repo: Essays-of-Schopenhauer_11945
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dircks, Sara Hay Goddard
+    alias: Dircks, Rudolf, Mrs.
+    gutenberg_agent_id: '5046'
+    url: http://www.gutenberg.org/2009/agents/5046
+creator:
+  author:
+    agent_name: Schopenhauer, Arthur
+    birthdate: 1788
+    deathdate: 1860
+    gutenberg_agent_id: '3648'
+    url: http://www.gutenberg.org/2009/agents/3648
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy, German'
+- GITenberg
+title: Essays of Schopenhauer
+url: http://www.gutenberg.org/ebooks/11945
