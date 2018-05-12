@@ -1,11 +1,14 @@
 _repo: Essays-of-Schopenhauer_11945
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Dircks, Sara Hay Goddard
     alias: Dircks, Rudolf, Mrs.
     gutenberg_agent_id: '5046'
     url: http://www.gutenberg.org/2009/agents/5046
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schopenhauer, Arthur
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3648
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Schopenhauer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11945#Essays-of-Schopenhauer
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
